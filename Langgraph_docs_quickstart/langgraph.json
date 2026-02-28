@@ -1,0 +1,9 @@
+{
+  "$schema": "https://langgra.ph/schema.json",
+  "dependencies": ["."],
+  "graphs": {
+    "quickstart": "./langgraph1.py:graph",
+    "simple": "./langgraph1.py:simple_graph"
+  },
+  "env": "../../.env"
+}
